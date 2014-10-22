@@ -17,6 +17,7 @@
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                Hola a todos, como estan yo soy Carlos Osman Suazo
             </p>
         </div>
         <div class="col-md-4">
